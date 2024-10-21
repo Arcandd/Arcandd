@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-👩🏻‍🎓 An undergraduate Computer Science student at [BINUS University](https://binus.ac.id)<br><br>
-🖥️ Passionate about **Application Development**<br><br>
+👩🏻‍🎓 I'm an undergraduate Computer Science student at [BINUS University](https://binus.ac.id)<br><br>
+🖥️ Passionate about **Web and Application Development**<br><br>
 🌱 I’m currently learning **JavaScript**<br><br>
 
 <!--
