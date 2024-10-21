@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+👩🏻‍🎓 An undergraduate Computer Science student at [BINUS University](https://binus.ac.id)<br><br>
+🖥️ Passionate about **Application Development**<br><br>
+🌱 I’m currently learning **JavaScript**<br><br>
+
 <!--
 **Arcandd/Arcandd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
